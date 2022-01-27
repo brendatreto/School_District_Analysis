@@ -38,29 +38,34 @@ Because we replaced the averages from Thomas High School substractin the ninth g
   - Math and reading scores by grade
 
 **Fig 4. Math scores by grade before and after adjustment**
+
 ![mathbygrade](https://user-images.githubusercontent.com/22451540/151428454-b9e12c09-5e4f-474a-8fd4-794ec93e7cc9.PNG) ![Mathbygrade(new)](https://user-images.githubusercontent.com/22451540/151428467-c65b43df-acea-46c1-9eaf-4c99133f1d96.PNG)
 
 As expected, there was no change in the other grades or in the other school, the only effect this new analysis had, was the NaN in ninth graders from Thomas High School. The same can be observed in reading scores by grade
 
 **Fig 5. Reading scores by grade before and after adjustment**
+
 ![readingbefore](https://user-images.githubusercontent.com/22451540/151428900-72a0b138-0d97-4009-9db5-8d47d0a5e15b.PNG) ![Readingafter](https://user-images.githubusercontent.com/22451540/151428923-22a1ae3c-16a4-474b-a876-097fc15f98fe.PNG)
 
   - Scores by school spending
 However, we ran the analysis once without replacing the grades and we discovered how the results would have been affected.
 
 **Fig 6. Scores by school spending before and after adjustment**
+
 ![Spendingbefore](https://user-images.githubusercontent.com/22451540/151446149-7be5208a-dde0-4c9b-96ab-062a993aedde.PNG) 
 ![spendingafter](https://user-images.githubusercontent.com/22451540/151446159-d096b89c-64a1-4717-8e2d-ddbc13a31b59.PNG)
 
   - Scores by school size
 
 **Fig 7. Scores by school size before and after adjustment**
+
 ![sizebefore](https://user-images.githubusercontent.com/22451540/151446236-8ba18358-a79f-43cd-ab31-6bc6fe52a590.PNG)
 ![sizeafter](https://user-images.githubusercontent.com/22451540/151446252-6e41ae1c-6697-4939-899c-1265d977429d.PNG)
 
 
   - Scores by school type
 **Fig 8. Scores by school type before and after adjustment**
+
 ![typebefore](https://user-images.githubusercontent.com/22451540/151446291-01591634-82b4-4415-b0d0-cd788460e44d.PNG)
 ![typeafter](https://user-images.githubusercontent.com/22451540/151446298-f8950c07-165b-4ae8-9670-fb2a0f0e45aa.PNG)
 
