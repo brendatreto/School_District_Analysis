@@ -74,3 +74,9 @@ In this grouping, the charter type of school -the one that includes Thomas High 
 
 
 ## Summary
+
+We can see some significant differences in the updated analyis, but we can sum it up in the following elements:
+- School summary without adjusting Thomas High School population, that dropped to 65.07% in the percentage of overall passing.
+- The sorted results of the school summary, was also affected without the adjustment, and Thomas High School went to the bottom when we left out ninth graders results.
+- The analysis of math and reading scores by grade was left with gaps because of the NaNs, thus, requiring some further analyis to get the complete picture.
+- The different groupings -by school spending, size and type-, showed significant change after replacing the grades, specifically in the bins that included Thomas High Schoo.
