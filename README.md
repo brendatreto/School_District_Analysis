@@ -48,7 +48,7 @@ As expected, there was no change in the other grades or in the other school, the
 ![readingbefore](https://user-images.githubusercontent.com/22451540/151428900-72a0b138-0d97-4009-9db5-8d47d0a5e15b.PNG) ![Readingafter](https://user-images.githubusercontent.com/22451540/151428923-22a1ae3c-16a4-474b-a876-097fc15f98fe.PNG)
 
   - Scores by school spending
-However, we ran the analysis once without replacing the grades and we discovered how the results would have been affected.
+However, we ran the analysis once without replacing the grades and we discovered how the results would have been affected. In this grouping, the effects can be seen in the $630-$644 spending range. Without substracting ninth grade students the percentage of students passing math and reading went from 62.8% to 56.4%. 
 
 **Fig 6. Scores by school spending before and after adjustment**
 
@@ -56,6 +56,7 @@ However, we ran the analysis once without replacing the grades and we discovered
 ![spendingafter](https://user-images.githubusercontent.com/22451540/151446159-d096b89c-64a1-4717-8e2d-ddbc13a31b59.PNG)
 
   - Scores by school size
+The affected bin in this grouping was the one of medium schools, where the overall percentage of passing students droped to 85.4% and went back up to 90.6% after adjusting the student count.
 
 **Fig 7. Scores by school size before and after adjustment**
 
@@ -64,6 +65,8 @@ However, we ran the analysis once without replacing the grades and we discovered
 
 
   - Scores by school type
+In this grouping, the charter type of school -the one that includes Thomas High School-, decreased until 87.2% when removing ninth graders results, but once the student count was adjusted, it went back up to 90.4%
+ 
 **Fig 8. Scores by school type before and after adjustment**
 
 ![typebefore](https://user-images.githubusercontent.com/22451540/151446291-01591634-82b4-4415-b0d0-cd788460e44d.PNG)
