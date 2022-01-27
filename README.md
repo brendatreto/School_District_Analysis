@@ -16,6 +16,7 @@ In that same data frame we imported numpy and used the loc function to select al
 
 Now that the **student_data** file was cleansed we merged the data frame with the school information in order to work with one single data frame that would provide information on the whole district. With this information we were able to find the new district summary.
 
+#### District Summary
 
 1. How is the district summary affected?
 The total number of schools, students and budget was not affected. However, the Average Math and Reading scores and, consequently the percentage of students passing math, reading and math and reading, decreased slightly.
@@ -28,11 +29,19 @@ The total number of schools, students and budget was not affected. However, the 
 **Fig 3. District summary after adjustment**
 ![District_summary(New)](https://user-images.githubusercontent.com/22451540/151419881-5305176a-eea3-44b0-aa7a-ac969506cfa9.PNG)
 
+
+#### School Summary
+
 2. How is the school summary affected?
 When whe ran again the summary by school we could verify that the only school that suffered changes was Thomas High School with a significant drop in the passing percentages. The percentage of overall passing went from 90.94% to 65.07% because with had not yet substracted the students with NaNs from the total count of students.
  
+
+#### Schools performance
+
 3. How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 Because we replaced the averages from Thomas High School substractin the ninth graders, there was not a significant shift in the placement relative to other schools. Thomas High School percentage of overall passing students went from 90.94% to 90.63% (not the 65.07% that considered the whole population of the school).
+
+#### Replacing ninth-grade scores
 
 5. How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
