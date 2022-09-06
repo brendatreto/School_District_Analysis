@@ -4,8 +4,9 @@
 After finishing the complete analysis for the district, we were notified of evidence of academic dishonesty in one of the schools included in the original assessment. The board decided to replace the school grades with NaNs and later decide what to do with those results. This decision means that we will repeat the analysis considering these modifications and compare how the results changed.
 
 ### Resources
-Data Source: students_complete.csv, school_complete.csv
-Software: Python 3.7.6, Jupyter Notebook
+- Data Source: students_complete.csv, school_complete.csv
+
+- Software: Python 3.7.6
 
 ## Results
 The first step was again to clean the data, we searched for missing values, and we remove prefixes and suffixes to work with only the students' names in the **student_data** file.
